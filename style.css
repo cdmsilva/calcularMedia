@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div>h1{
+    text-align: center;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: aquamarine;
+    border: none;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: blanchedalmond;
+}
+input{
+    margin: 5px;
+    padding: 10px;
+    width: 100px;
+    border: 1px solid blanchedalmond;
+    border-radius: 4px;
+}
